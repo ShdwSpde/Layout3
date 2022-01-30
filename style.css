@@ -1,0 +1,24 @@
+* {
+  box-sizing:  border-box;
+  text-align: center;
+}
+
+header,footer {
+  height: 200px;
+  border: 2px solid gray;
+  clear: both;
+}
+
+.one {
+  height: 600px;
+  width: 20%;
+  border: 2px solid gray;
+  float: left;
+}
+
+#two {
+  height: 600px;
+  width: 40%;
+  border: 2px solid gray;
+  float: left;
+}
